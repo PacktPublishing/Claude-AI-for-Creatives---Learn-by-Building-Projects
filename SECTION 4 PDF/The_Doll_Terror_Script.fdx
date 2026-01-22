@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FinalDraft DocumentType="Script" Template="No" Version="5">
+<Content>
+<Paragraph Type="Title">
+<Text>THE DOLL TERROR</Text>
+</Paragraph>
+<Paragraph Type="Credit">
+<Text>Written by</Text>
+</Paragraph>
+<Paragraph Type="Author">
+<Text>[Author Name]</Text>
+</Paragraph>
+<Paragraph Type="Source">
+<Text>Based on the Raygun-Slingers Adventure Module</Text>
+</Paragraph>
+<Paragraph Type="Contact">
+<Text></Text>
+</Paragraph>
+
+<Paragraph Type="Scene Heading">
+<Text>EXT. MIREHOLM - MARSH ROAD - DAY</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>A lone horseman emerges from the mist. JACK REEVES (30s, weathered, pragmatic) rides through fetid wetlands. Spanish moss hangs like funeral shrouds. Everything tilts at wrong angles.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>The town of MIREHOLM rises ahead—buildings sinking into swamp, tilting at sick angles. Festival decorations hang incongruously bright.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>And dolls. Dolls everywhere. In windows. On porches. All porcelain. All watching.</Text>
+</Paragraph>
+
+<Paragraph Type="Scene Heading">
+<Text>EXT. DALTON HOUSE - CONTINUOUS</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>The house leans five degrees into the marsh. Jack ties his horse to a moss-covered post and knocks.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>The door opens immediately. MARTHA DALTON (40s, exhausted, red-eyed) stands in the frame.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>MARTHA</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>You're the bounty hunter.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Not a question. Jack nods.</Text>
+</Paragraph>
+
+<Paragraph Type="Scene Heading">
+<Text>INT. DALTON HOUSE - KITCHEN - CONTINUOUS</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>The tilted floor makes Jack's stomach turn. CLEM DALTON (late 40s, prospector, hollow-eyed) sits at the table staring at a piece of paper.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>MARTHA</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Been there three days. Won't eat. Won't sleep.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack pulls up a groaning chair. Clem doesn't look up from the paper—four words in careful child's script: "I'm going to be better."</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>CLEM</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Rosie left this. Three nights back. Window open, favorite doll gone. Just... gone.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Tell me about the doll.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>CLEM</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Porcelain thing. Victorian-style. Mr. Hollowgrave made it special for her. Said she had talent.</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>She called it Mother.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Hollowgrave?</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>MARTHA</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Silas Hollowgrave. Runs the Toy Festival. Been awful generous to folks around here. Even helped with the bounty.</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Rosie loved his workshop. Spent hours there learning to make dolls.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack's instincts prickle.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Show me her room.</Text>
+</Paragraph>
+
+<Paragraph Type="Scene Heading">
+<Text>INT. DALTON HOUSE - ROSIE'S ROOM - CONTINUOUS</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Dolls line every surface. All facing the door. All watching with glass eyes that catch the light.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack moves to the desk. Drawings of dolls with glowing eyes. A journal in careful script.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>CLOSE ON JOURNAL: "Mr. Silas says I'm special. He says I can help fix people. Mom cried again today. She's so weak."</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack flips pages. "The festival is coming. Mr. Silas says I'll be the Mother. I'll take care of everyone. Make them perfect. Make them quiet."</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Sweet merciful hell.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>CLICK. Behind him, a doll's head rotates.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack spins, hand on his RAYGUN. The doll stares with eyes that reflect lamplight like tiny green stars.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>He backs toward the door, grabs the journal, and runs.</Text>
+</Paragraph>
+
+<Paragraph Type="Scene Heading">
+<Text>INT. DALTON HOUSE - KITCHEN - CONTINUOUS</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Where's this Hollowgrave Mine?</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Clem looks up, eyes focusing for the first time.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>CLEM</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Five miles west through the wetlands. But you can't go there—radiation levels'll cook you from the inside out.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Rosie went there.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>CLEM</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Nobody goes to Hollowgrave Mine. Not since old Silas Holloway's partners left him to die down there. Must be seventy years ago now.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Holloway or Hollowgrave?</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>CLEM</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Same man, different name. Story goes he survived somehow, came back changed. Calls himself Hollowgrave now.</Text>
+</Paragraph>
+<Paragraph Type="Parenthetical">
+<Text>(voice dropping)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Sometimes I see him in town—never seems to age. Eyes wrong somehow. But he's been nothing but kind to Mireholm.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack heads for the door.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>I'll need a radiation suit and a map.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>MARTHA</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>What about the bounty?</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>If your daughter's alive, I'll bring her back.</Text>
+</Paragraph>
+<Paragraph Type="Parenthetical">
+<Text>(pauses at door)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>But Mrs. Dalton—you might not like what I find.</Text>
+</Paragraph>
+
+<Paragraph Type="Scene Heading">
+<Text>EXT. MIREHOLM - TOWN SQUARE - DAY</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>The square pulses with festival preparations. Workers erect stalls. Children run between legs, laughing. Colorful bunting hangs from tilting buildings.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>And dolls. In windows, on tables, in children's arms. All similar. All watching.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>On a makeshift stage, SILAS HOLLOWGRAVE (appears 60s, silver hair, gaunt, eyes that catch light wrong) directs workers with easy authority.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>He turns as Jack approaches. His smile is warm as summer sun.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>HOLLOWGRAVE</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>You must be Mr. Reeves! The Daltons mentioned they'd hired help.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>He extends a hand. Jack shakes it and nearly recoils—the skin feels waxy, preserved. Like touching a corpse.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>HOLLOWGRAVE (CONT'D)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Silas Hollowgrave. Pleased to meet you.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>I'm looking for Rosie Dalton.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>HOLLOWGRAVE</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Poor child. Such a talented student.</Text>
+</Paragraph>
+<Paragraph Type="Parenthetical">
+<Text>(concerned)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>I fear she may have wandered into the old mine. Dangerous place. I'd be happy to guide you there.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>That won't be necessary.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Hollowgrave's smile never wavers. He turns back to his workers.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack notices: Hollowgrave's SHADOW moves a half-second out of sync.</Text>
+</Paragraph>
+
+<Paragraph Type="Scene Heading">
+<Text>INT. THE SOGGY NICKEL SALOON - DAY</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Water stains on every surface. Floorboards soft as sponge. Behind the bar, ONE-THUMB PETE (weathered, missing thumb) pours drinks mechanically.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack slaps coins on the bar.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Rosie Dalton.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Pete pours whiskey that smells of turpentine.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>PETE</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>You asking about that missing girl or asking about what she really was?</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Talk.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>PETE</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Strange kid. Too quiet. Too... observant. Like she was studying folks instead of just seeing them.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Pete downs his own shot.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>PETE (CONT'D)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>And lately, people been acting wrong. Like they're here but not here, y'know? Sheriff Clayborne—yesterday he laughed at my jokes. This morning he barely blinks. Moves too smooth, like a wind-up toy.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>How many?</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>PETE</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Fifty? Hundred? Hard to say. But something's wrong in Mireholm, and it started when Hollowgrave showed up talking about his damn festival.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Pete leans close.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>PETE (CONT'D)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>People say he's been here forever. That he should be dead but ain't. That the radiation in that mine didn't kill him—it changed him.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Into what?</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>PETE</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Something that ain't quite human no more.</Text>
+</Paragraph>
+
+<Paragraph Type="Scene Heading">
+<Text>INT. SHERIFF'S OFFICE - DAY</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>SHERIFF CLAYBORNE (40s, weathered) sits at his desk staring at paperwork without reading. His movements are too precise when he looks up.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>SHERIFF</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Can I help you?</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Perfectly polite. Perfectly empty.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>We talked yesterday about Rosie Dalton. You remember?</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>A pause. Too long.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>SHERIFF</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Of course.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>What did I tell you?</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Another pause. The Sheriff's eyes don't quite focus.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>SHERIFF</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>You... said you were investigating.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack draws his RAYGUN and aims it at the Sheriff's chest.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Who are you?</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>SHERIFF</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Sheriff Clayton Clayborne. I don't understand the question.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>No fear. No reaction at all. Jack backs toward the door and runs.</Text>
+</Paragraph>
+
+<Paragraph Type="Scene Heading">
+<Text>INT. BOARDING ROOM - NIGHT</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack barricades the door and spreads his findings on the bed. Rosie's journal. Map. A doll he'd taken from a merchant stall.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>He pulls out a multi-tool and cracks open the doll's back panel.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>INSIDE: A fragment of glowing green crystal—X-ranum. And something organic.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>When he touches it with his probe, a WOMAN'S VOICE WHISPERS in his mind.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>VOICE (V.O.)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Help me help me help me—</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack drops the tool and scrambles backward. The voice fades.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>KNOCK at the door.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>MARTHA (O.S.)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Mr. Reeves? Please, I need to talk to you. About Rosie.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack grabs his raygun and cracks the door. Martha stands in the hallway—hollow eyes, too-precise movements.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>How did you find my room?</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>NOT-MARTHA</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Mr. Hollowgrave told me. He wants to speak with you. About the girl. About everything.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Tell him I'll meet him at the mine.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>NOT-MARTHA</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>He thought you'd say that.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>She produces a doll from her apron and sets it on the threshold.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>NOT-MARTHA (CONT'D)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>He wanted you to have this. A gift. So you understand.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>She walks away with mechanical precision.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack stares at the doll. Braided into its scalp is a lock of Martha Dalton's hair.</Text>
+</Paragraph>
+
+<Paragraph Type="Scene Heading">
+<Text>EXT. WETLANDS - NIGHT</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack in a RADIATION SUIT moves through glowing green marsh. X-ranum leaches into the water. Things move in that glow—things that should be dead.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>The MINE ENTRANCE yawns ahead, bleeding green light into mist.</Text>
+</Paragraph>
+
+<Paragraph Type="Scene Heading">
+<Text>INT. HOLLOWGRAVE MINE - RITUAL CHAMBER - CONTINUOUS</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>A massive chamber. Walls lined with glowing X-RANUM CRYSTALS. In the center, a RITUAL CIRCLE made of bones and doll parts.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Surrounding the circle: THOUSANDS OF DOLLS arranged in concentric rings. All glowing. All containing trapped consciousness.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>SILAS HOLLOWGRAVE stands in the circle's heart, arms raised. Green light pours from his eyes and mouth. His shadow writhes independently on the walls.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>HOLLOWGRAVE</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Mr. Reeves. I'm pleased you came. You're early. The ceremony doesn't begin until the festival reaches its crescendo.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>What are you doing to these people?</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>HOLLOWGRAVE</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Perfecting them.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>He gestures at the glowing dolls.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>HOLLOWGRAVE (CONT'D)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Humanity is broken, Mr. Reeves. Small-minded. Cruel. Petty. So I'm giving them peace. Replacing their fractured consciousness with something... purer. The Others will inhabit their vessels and make them whole.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>The Others?</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Reality TEARS. Through the rip comes SOMETHING—too many eyes, geometry that hurts to perceive, colors that shouldn't exist.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>HOLLOWGRAVE</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Beautiful, aren't they? I met them during my century underground. After Marcus and Jacob and Samuel left me to die. The radiation opened my mind, and the Others showed me truth.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>His eyes blaze brighter.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>HOLLOWGRAVE (CONT'D)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>They'll make Mireholm perfect. And then every town on this frontier. No more betrayal. No more cruelty. Just pure, eternal peace.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>That's not peace—that's extinction!</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>HOLLOWGRAVE</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>It's evolution.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>He raises his hands. Dolls around the chamber begin to ANIMATE, rising with clicking limbs.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>HOLLOWGRAVE (CONT'D)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>I offered you mercy, Mr. Reeves. The chance to be perfected willingly. But you've chosen the hard way.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>The dolls SWARM.</Text>
+</Paragraph>
+
+<Paragraph Type="Scene Heading">
+<Text>INT. RITUAL CHAMBER - CONTINUOUS - ACTION SEQUENCE</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack's RAYGUN splits green fire, shattering porcelain. For every doll destroyed, two more crawl from shadows. Tiny claws rake his radiation suit.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>When each doll shatters, a PSYCHIC SCREAM echoes—trapped consciousness dying.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>HOLLOWGRAVE</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>You feel them, don't you? Every doll contains a soul. Destroy me, and they all die. The ritual is self-sealing. Kill me, kill them all.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack switches his raygun to stun and fires. The bolt PASSES THROUGH Hollowgrave's intangible form.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>HOLLOWGRAVE (CONT'D)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>The radiation doesn't just heal me, Mr. Reeves. It transforms me. I'm not entirely flesh anymore. I'm something more. Something that will outlive your pathetic species.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>He gestures. A wave of PSYCHIC FORCE slams Jack against the wall.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack struggles to rise. The ritual circle pulses brighter. More ALIEN ENTITIES push through the tear in reality.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>FOOTSTEPS.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>ROSIE (O.S.)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Mr. Silas? Is it time?</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>ROSIE DALTON (12, blonde braids, white dress impossibly clean, carrying the MOTHER DOLL) walks into the chamber.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Her eyes glow the same green as Hollowgrave's.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Rosie! Your parents are looking for you!</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>She turns to him. Her smile is cold as winter stars.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>ROSIE</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>You mean those weak, broken things? I left them behind. Mr. Silas showed me what I really am. What I can become.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>She sets the Mother doll down. It begins to MOVE INDEPENDENTLY.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>ROSIE (CONT'D)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>I'm going to be the Mother of the new order. Isn't it wonderful?</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Rosie, listen to me—</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>ROSIE</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>No. You listen. I'm special. I'm perfect. And when the Others come through, I'll be their vessel. Their queen.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>She raises her hands, mimicking Hollowgrave.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>ROSIE (CONT'D)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>You can't save me because I don't want to be saved.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>HOLLOWGRAVE</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>You see? Some are born broken. But I can fix even them. Rosie will be my greatest work. My legacy. Even if you somehow stop me, she'll continue. The work will go on.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack looks at the glowing dolls—hundreds of trapped minds. Looks at Rosie. Looks at Hollowgrave.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>He holsters his raygun and reaches for BELT CHARGES. Shaped explosives meant for mining. He has six.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>HOLLOWGRAVE (CONT'D)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>What are you doing?</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Something you didn't plan for.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack plants the first charge at the base of an X-ranum crystal pillar.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK (CONT'D)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>You need the radiation to live. Need the crystals to power your ritual. So I'm taking them away.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>HOLLOWGRAVE</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>You'll kill us all! The explosion will bring down the entire chamber!</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>I know. But at least you won't turn everyone into your hollow puppets.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Hollowgrave SHRIEKS and sends a wave of dolls. Jack fights through them, planting charges three and four. Psychic screams echo with each shattered doll.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>ROSIE</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>You're going to die down here.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack plants charge five at the ritual circle's edge.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Probably. But so will you. And so will he. And sometimes that's the best you can hope for.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>He plants the final charge directly beneath Hollowgrave's feet.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>HOLLOWGRAVE</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>You're mad!</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>No. I'm just done.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>He activates the timer—60 SECONDS—and runs.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Behind him, Hollowgrave SCREAMS. Reality tears wider. Alien entities grasp for purchase. Rosie stands her ground, arms raised, welcoming them.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack reaches the tunnel entrance as countdown hits FIVE. FOUR. THREE. TWO.</Text>
+</Paragraph>
+
+<Paragraph Type="Scene Heading">
+<Text>EXT. HOLLOWGRAVE MINE - NIGHT</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>MASSIVE EXPLOSION. The ground shakes. The mine entrance COLLAPSES.</Text>
+</Paragraph>
+
+<Paragraph Type="Scene Heading">
+<Text>EXT. MIREHOLM - TOWN SQUARE - SAME TIME</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Every doll in town SHATTERS simultaneously. People drop to their knees, clutching their heads as trapped consciousness releases in a wave of PSYCHIC SCREAMING.</Text>
+</Paragraph>
+
+<Paragraph Type="Scene Heading">
+<Text>EXT. COLLAPSED MINE ENTRANCE - DAWN</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack digs himself out three hours later. Radiation suit cracked, bleeding from a dozen wounds. The green glow is gone.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>He limps back toward Mireholm as dawn breaks through the mist.</Text>
+</Paragraph>
+
+<Paragraph Type="Scene Heading">
+<Text>EXT. MIREHOLM - TOWN SQUARE - DAWN</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Chaos. People wandering, confused. Festival decorations look garish in morning light. Obscene.</Text>
+</Paragraph>
+
+<Paragraph Type="Scene Heading">
+<Text>EXT. DALTON HOUSE - DAWN</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Martha and Clem wait outside. Martha grabs Jack's arm.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>MARTHA</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Did you find her? Did you find Rosie?</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack looks at these people who'd lost their daughter long before she disappeared.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>The mine collapsed. Nobody could have survived.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Clem's eyes meet Jack's. Understanding passes between them.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Clem closes his eyes. Martha sobs into her apron.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>MARTHA</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>The bounty—</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Keep it. Use it to leave this place. Mireholm's dying anyway. Find somewhere the buildings stand straight and the air doesn't taste like sulfur.</Text>
+</Paragraph>
+
+<Paragraph Type="Scene Heading">
+<Text>EXT. MARSH ROAD - DAY</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack rides out as the sun climbs higher, leaving the tilting town to sink into the marsh that spawned it.</Text>
+</Paragraph>
+
+<Paragraph Type="Transition">
+<Text>FADE TO:</Text>
+</Paragraph>
+
+<Paragraph Type="Scene Heading">
+<Text>INT. JACK'S OFFICE - DAY - THREE MONTHS LATER</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack sits at a desk reviewing reports. One catches his eye.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>CLOSE ON REPORT: "Whisper Creek. Children's dolls appearing in homes. People acting strangely. Blonde girl with two braids teaching doll-making workshops."</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack stares at the description. His blood runs cold.</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>He grabs his coat and raygun.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK (V.O.)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>I'd seen Rosie walk into that explosion. Seen the mine collapse. But if she'd used her psychic abilities to jump into one of the dolls before the blast...</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack heads for the door.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK (V.O.) (CONT'D)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Somewhere out there, a child monster was learning from her mistakes. Getting smarter. Getting stronger. And I had a new bounty to collect.</Text>
+</Paragraph>
+
+<Paragraph Type="Scene Heading">
+<Text>EXT. FRONTIER ROAD - DAY</Text>
+</Paragraph>
+<Paragraph Type="Action">
+<Text>Jack rides into the distance toward Whisper Creek.</Text>
+</Paragraph>
+<Paragraph Type="Character">
+<Text>JACK (V.O.)</Text>
+</Paragraph>
+<Paragraph Type="Dialogue">
+<Text>Because some evils don't die easy. Some evils don't die at all.</Text>
+</Paragraph>
+
+<Paragraph Type="Transition">
+<Text>FADE TO BLACK.</Text>
+</Paragraph>
+
+<Paragraph Type="Action">
+<Text>TITLE CARD: "The events depicted are based on classified reports from the New Sonora Railroad Company's Paranormal Investigation Division. Hollowgrave Mine remains sealed by government order. Rosie Dalton's current whereabouts remain unknown."</Text>
+</Paragraph>
+
+<Paragraph Type="Action">
+<Text>TITLE CARD: "If you encounter porcelain dolls with glowing green eyes, do not bring them into your home. Report all sightings to your local Railroad Authority office immediately."</Text>
+</Paragraph>
+
+<Paragraph Type="Transition">
+<Text>FADE OUT.</Text>
+</Paragraph>
+
+<Paragraph Type="Action">
+<Text>THE END</Text>
+</Paragraph>
+
+</Content>
+</FinalDraft>
